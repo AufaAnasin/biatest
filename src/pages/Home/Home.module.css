@@ -1,0 +1,16 @@
+.customButton {
+    border-color: #DDE6ED;
+    color: #DDE6ED;
+    margin-top: 24px;
+}
+
+.customButton:hover {
+    background-color: #526D82;
+    color: white;
+    border-color: white;
+}
+
+.customButton:active {
+    background-color: #334e63;
+    border-color: white;
+}

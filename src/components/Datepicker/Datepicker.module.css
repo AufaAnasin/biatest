@@ -1,0 +1,9 @@
+.customdatepicker {
+    height: 40px;
+    cursor: pointer;
+}
+
+.customdategroup {
+    display: flex;
+    flex-direction: column;
+}
